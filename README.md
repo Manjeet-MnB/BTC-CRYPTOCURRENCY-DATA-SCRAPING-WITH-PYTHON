@@ -81,5 +81,11 @@ for coin in coin_list:
     # Saving The Scrapped data into csv file
 
     main_df.to_csv('main_df.csv', index=False)
+   
 ```
+Observation/Insights after performing EDA
 
+1 - Bitcoin is the highest value according to market cap and etherum is 50% of it and all other are very less in comperision to it and USDT is 3 times less then the Etherum
+2 - Investment in penny cryptocurrencies should be avoided, as depicted by the candlestick chart of USDT.
+3 - In 2021 the value of BTC was at all-time high of nearly 60,000$ which is almost 15 times more than the second-highest cryptocurrency ETH .
+4 - Among the top cryptocurrencies, the growth of BTC, ETH, and USTD over the last five years was beneficial for the investors.
