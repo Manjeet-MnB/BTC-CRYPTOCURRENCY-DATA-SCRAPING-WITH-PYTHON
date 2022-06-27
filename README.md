@@ -88,6 +88,7 @@ for coin in coin_list:
    3 - In 2021 the value of BTC was at all-time high of nearly 60,000$ which is almost 15 times more than the second-highest cryptocurrency ETH . 
    4 - Among the top cryptocurrencies, the growth of BTC, ETH, and USTD over the last five years was beneficial for the investors.
 ```
-Observation/Insights after performing EDA
+![image](https://user-images.githubusercontent.com/71639295/175969738-1756d027-f7e6-4619-bdc6-f360bd2cff2b.png)
+
 
 
